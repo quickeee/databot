@@ -1,0 +1,5 @@
+.idea
+*.eml
+*.iml
+target
+src/main/webapp/bower_components
